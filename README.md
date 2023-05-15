@@ -4,6 +4,14 @@ Acrylic tokens for the game _Sakura Arms_.
 
 [pdf](tokens-v1.pdf)
 
+## My file is flipped!
+
+The file is flipped horizontally so that the printed side is the back side of the tokens. This is because acrylic printer prints on the back side of the acrylic.
+
+## The colors of the tokens are off!
+
+The colors may appear strange because the PDF file is in CMYK color space. If your PDF viewer doesn't support this format, try opening the file in Adobe Acrobat Reader.
+
 ## 성원애드피아 주문
 
 - [아크릴인쇄](https://www.adpiamall.com/estimate/goods2019/265)
